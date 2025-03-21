@@ -20,3 +20,16 @@ This Jupyter notebook is a practical exercise focused on analyzing salary data f
 - 💡 **Practical exercises** to strengthen your data manipulation skills  
 
 This file is part of a series of notebooks dedicated to Data Science libraries and practical applications. Check out the other notebooks in the repository for a more extensive learning experience! 🚀
+
+### 3. Ecommerce Purchases Online (Jupyter Notebook)
+
+This Jupyter notebook is a practical exercise focused on analyzing e-commerce purchase data using **Pandas**.It uses a file called Ecommerce Purchases.It aims to strengthen your data manipulation skills with tasks like:
+
+- 📊 **Data exploration**: Understanding the dataset's structure and key features  
+- 💳 **Customer insights**: Analyzing purchase behavior based on language, job titles, and payment methods  
+- 📈 **Aggregation and filtering**: Identifying top spenders, common job titles, and popular email providers  
+- 🔍 **Conditional querying**: Extracting specific information like credit card details and expiration dates  
+- 🧠 **Problem-solving exercises** to enhance your analytical thinking  
+
+This file is part of a series of notebooks designed to build proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
+
