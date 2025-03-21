@@ -45,3 +45,14 @@ This Jupyter notebook introduces the fundamentals of **Matplotlib**, a powerful 
 
 This file is part of a series of notebooks designed to build proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
 
+### 5. Seaborn Basics (Jupyter Notebook)
+
+This Jupyter notebook covers the fundamentals of **Seaborn**, a popular Python library for data visualization built on top of Matplotlib. It focuses on visualizing data from the Titanic dataset and includes:
+
+- 🔹 **Basic plots**: Joint plots, distribution plots, box plots, and count plots for exploratory data analysis.
+- 🔹 **Advanced visualizations**: Swarm plots and heatmaps for analyzing correlations and categorical data.
+- 🔹 **Styling and aesthetics**: Applying themes and color palettes for visually appealing plots.
+- 🔹 **Data filtering and correlation analysis**: Understanding relationships through filtered datasets.
+
+This file is part of a series of notebooks aimed at building proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
+
