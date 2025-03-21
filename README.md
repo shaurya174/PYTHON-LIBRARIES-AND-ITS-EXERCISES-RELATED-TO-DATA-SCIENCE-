@@ -79,3 +79,26 @@ This Jupyter notebook analyzes a dataset of **911 emergency calls** from Kaggle,
 
 This notebook is part of a series designed to enhance your data science skills using real-world datasets. Check out the full repository for more projects! 🚀
 
+### 8. Linear Regression on Tips Dataset: Actual vs. Predicted
+
+## 📄 Notebook Description
+This notebook demonstrates the application of **Linear Regression** on the **Seaborn "tips" dataset**. The key steps covered include:
+
+### 🔹 Data Loading and Exploration
+- Importing and examining the dataset using Seaborn.
+
+### 🔹 Feature Selection
+- Using `total_bill` and `size` as features to predict the `tip`.
+
+### 🔹 Model Training
+- Implementing a **Linear Regression model** using **Scikit-Learn**.
+
+### 🔹 Prediction and Evaluation
+- Splitting the dataset, training the model, and comparing **actual vs. predicted** values.
+
+### 🔹 Visualization
+- Creating a scatter plot with **Matplotlib** to visually compare **actual** and **predicted** values.
+
+---
+
+This notebook serves as a practical guide for understanding and applying **Linear Regression** to analyze real-world data.
