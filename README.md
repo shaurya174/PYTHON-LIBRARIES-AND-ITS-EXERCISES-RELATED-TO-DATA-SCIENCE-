@@ -56,3 +56,15 @@ This Jupyter notebook covers the fundamentals of **Seaborn**, a popular Python l
 
 This file is part of a series of notebooks aimed at building proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
 
+### 6. Pandas Visualization Basics (Jupyter Notebook)
+
+This Jupyter notebook explores data visualization using **Pandas**, leveraging its integration with Matplotlib for quick and effective visualizations.It uses df3. It covers:
+
+- 📉 **Scatter Plots**: Visualizing relationships between numerical variables with customizable colors and sizes.
+- 📊 **Histograms**: Analyzing the distribution of data for individual columns.
+- 📦 **Box Plots**: Understanding data spread and outliers for multiple columns.
+- 📈 **KDE Plots**: Plotting kernel density estimates for smooth distributions.
+- 🔲 **Area Plots**: Visualizing cumulative data over a range of rows.
+
+This notebook is part of a comprehensive series focused on essential Python libraries for Data Science. Check out the complete repository for more insightful exercises! 🚀
+
