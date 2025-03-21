@@ -33,3 +33,15 @@ This Jupyter notebook is a practical exercise focused on analyzing e-commerce pu
 
 This file is part of a series of notebooks designed to build proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
 
+### 4. Matplotlib Basics (Jupyter Notebook)
+
+This Jupyter notebook introduces the fundamentals of **Matplotlib**, a powerful visualization library for Python. The notebook covers:
+
+- 📈 **Plotting basics**: Creating figures and axes, and customizing labels, titles, and colors.
+- 🔲 **Subplots**: Managing multiple plots within a single figure.
+- 📐 **Basic plots**: Line plots, sine waves, cosine waves, tangent waves, and exponential curves.
+- 🎨 **Styling**: Adjusting line styles, colors, and legends for effective visual communication.
+- 🔧 **Hands-on practice** to help you grasp core plotting techniques.
+
+This file is part of a series of notebooks designed to build proficiency in Python libraries for Data Science. Explore the entire repository for more insightful exercises! 🚀
+
