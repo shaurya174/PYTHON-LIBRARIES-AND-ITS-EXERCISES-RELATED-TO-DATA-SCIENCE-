@@ -68,3 +68,14 @@ This Jupyter notebook explores data visualization using **Pandas**, leveraging i
 
 This notebook is part of a comprehensive series focused on essential Python libraries for Data Science. Check out the complete repository for more insightful exercises! 🚀
 
+### 7. 911 Calls Data Capstone Project (Jupyter Notebook)
+
+This Jupyter notebook analyzes a dataset of **911 emergency calls** from Kaggle, exploring trends, patterns, and insights.It uses 911.csv. It includes:
+
+- 📊 **Data Exploration**: Overview of the dataset, including top zip codes and townships for 911 calls.
+- 🔍 **Data Cleaning**: Conversion of timestamps to datetime objects for enhanced analysis.
+- 🛠️ **Feature Engineering**: Extraction of call reasons (EMS, Fire, Traffic) and time-based features (Hour, Month, Day of the Week).
+- 📅 **Visualization**: Countplots to visualize the most common reasons for emergency calls and other insightful visualizations.
+
+This notebook is part of a series designed to enhance your data science skills using real-world datasets. Check out the full repository for more projects! 🚀
+
