@@ -10,3 +10,13 @@ This Jupyter notebook focuses on the Python library **NumPy**, essential for num
 - 📝 **Hands-on exercises** to reinforce learning  
 
 This file is part of a series of notebooks covering various Python libraries widely used in Data Science. Explore the rest of the repository for a comprehensive learning experience! 🚀
+
+### 2. SF Salaries Exercise (Jupyter Notebook)
+
+This Jupyter notebook is a practical exercise focused on analyzing salary data from the **San Francisco Salaries dataset**. It is designed to help you apply Data Science skills using popular Python libraries.There is also a csv file called salaries.csv The notebook includes:
+
+- 📊 **Data exploration** techniques to understand and clean the dataset  
+- 🔎 **Analysis and insights** derived from salary data  
+- 💡 **Practical exercises** to strengthen your data manipulation skills  
+
+This file is part of a series of notebooks dedicated to Data Science libraries and practical applications. Check out the other notebooks in the repository for a more extensive learning experience! 🚀
